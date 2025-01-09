@@ -23,7 +23,7 @@ The Weather Dashboard is a Python application that fetches and displays weather 
 ## Setup
 1. Clone the repository to your local machine.
    ```
-
+    git clone https://github.com/GfavourBraimah/Weather_API_Dashboard
    ```
 
 2. . Create a virtual environment and activate it:
